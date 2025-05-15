@@ -1,2 +1,2 @@
 public class login
-credentials username password
+credentials username password srtech
